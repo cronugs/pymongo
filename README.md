@@ -1,0 +1,3 @@
+# Python and Mongo
+
+A small project to leard mongodb in python
